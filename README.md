@@ -1,7 +1,7 @@
 # Pikaptcha
 **This project has been discontinued and is out of date. If anyone would like to take over, please let me know via Discord.**
 
-**This is a fully functional as of 1/22/2017. It doesn't accept the TOS as the method is out of date. This can be done via PokemonGoMap, PokeAlert and im sure other methods. - Boby360**
+**This is fully functional as of 1/22/2017. It doesn't accept the TOS as the method is out of date. This can be done via PokemonGoMap, PokeAlert and im sure other methods. - Boby360**
 
 Based off pikapy by skvvv, which is based off ptc2 Kitryn, which is based off ptcaccount by jepayne1138, etc.
 Also uses pogoapi from keyphact
@@ -29,8 +29,6 @@ Install the following clickable links: (if you cannot click them, all links are 
 5. Shift+Right Click your desktop and "Open command window here".
 
 6. Type `path` and hit enter. You should see C:\Python27, C:\Python27\Scripts, and C:\Program Files\Git\cmd
-
-7. If you intend to manually solve captcha, [Download Chromedriver](http://chromedriver.storage.googleapis.com/2.27/chromedriver_win32.zip) (UPDATED!!). Unzip the file and place it in C:\Python27\Scripts
 
 7. If you intend to manually solve captcha, [Download Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads). Unzip the file and place it in C:\Python27\Scripts
 
@@ -286,7 +284,7 @@ Please let us know what your issue is, instead of just saying it doesnt work. Co
 
 - Microsoft Visual C++ Compiler for Python 2.7 https://www.microsoft.com/en-ca/download/details.aspx?id=44266
 
-- Download Chromedriver http://chromedriver.storage.googleapis.com/2.23/chromedriver_win32.zip
+- Download Chromedriver https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 - 2 Captcha Signup https://2captcha.com/auth/register
 
