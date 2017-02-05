@@ -24,7 +24,7 @@ final_consonants = list(set(string.ascii_lowercase) - set('aeiou')
 
 vowels = 'aeiou'
 
-symbols = '#?!@$%%^&><+`*()-]'
+symbols = '#?!@$%%^&><+`*()-'
 
 def generate_word():
     """Returns a random consonant-vowel-consonant pseudo-word."""
